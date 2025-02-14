@@ -18,7 +18,7 @@ This project is a **Hospital Management System** designed to manage various hosp
 - Easily filter doctors based on their specialization.
   <br> <br>
 
-  ![image1](https://github.com/YasinShamsedini/HospitalManagementSystem/blob/main/images/doctorshospital.JPG)
+  ![image2](https://github.com/YasinShamsedini/HospitalManagementSystem/blob/main/images/doctorshospital.JPG)
   
 ### 3. **Appointment Management** 🗓️
 - Schedule and manage patient appointments with doctors.
@@ -38,7 +38,7 @@ This project is a **Hospital Management System** designed to manage various hosp
 - Add and remove medicines as necessary.
   <br> <br>
 
-  ![image1](https://github.com/YasinShamsedini/HospitalManagementSystem/blob/main/images/doctorshospital.JPG)
+  ![image3](https://github.com/YasinShamsedini/HospitalManagementSystem/blob/main/images/medhpspital.JPG)
 
 
 ## 🖥️ **User Interface & Design**
