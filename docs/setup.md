@@ -90,5 +90,5 @@ Alternatively, you can open the project in **PyCharm** or **VS Code**, and run i
 - Ensure the `image_path` in the code matches the location of the image file on your device.
 <br> <br> 
 
-Enjoy using the software!
+##Enjoy using the software!
 
