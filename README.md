@@ -45,9 +45,9 @@ This project is a **Hospital Management System** designed to manage various hosp
 
 - The system uses a **dark theme** suitable for a hospital environment, reducing strain on the eyes.
 - The main screen features a **left-side dashboard** for easy navigation between sections like Patients, Doctors, Appointments, Prescriptions, Medicines, and Bills.
-- A **custom Tkinter GUI** provides a modern, clean, and intuitive interface for users.
+- It provides a modern, clean, and intuitive interface for users.
 - The interface includes **combo boxes** linked to the database for easy access to data such as doctor and patient information.
-
+- I am so busy these days but soon, I will provide CTK python_code for this project!
 
 
 ## 💡 **Strengths**
@@ -85,8 +85,6 @@ While this system is well-suited for smaller hospitals or clinics, it may not sc
 
 To get the project up and running on your local machine, follow the steps that mentioned in docs > setup.md
 
-
-   This will launch the Hospital Management System with a Tkinter-based GUI.
 
 
 
