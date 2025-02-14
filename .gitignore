@@ -26,5 +26,8 @@ env/
 *.jpeg
 *.gif
 
+# Documentation (if generated)
+docs/_build/
+
 # MacOS
 .DS_Store
