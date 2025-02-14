@@ -2,7 +2,7 @@
 
 This project is a **Hospital Management System** designed to manage various hospital functions including patient records, doctor profiles, appointments, prescriptions, medications, and bills. The system features a clean and intuitive **dark-themed** user interface built using **Tkinter** and Python, enabling easy management of hospital data.
 
----
+
 
 ## 🚀 **Features**
 
@@ -111,8 +111,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Special thanks to my parents, who work in the healthcare industry, for testing the system and providing valuable feedback.
 - The project benefited from AI-powered suggestions that enhanced the functionality and design.
   
----
-
 ##  **Enjoy using the Software!**
-
-Feel free to explore the project, contribute, and share your feedback. If you have any questions or suggestions, feel free to open an issue or a pull request.
