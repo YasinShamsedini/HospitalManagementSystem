@@ -1,5 +1,5 @@
 
-```markdown
+
 # Installation Guide for Hospital Management System
 
 This guide will walk you through the steps to install and set up the Hospital Management System on your local machine.
