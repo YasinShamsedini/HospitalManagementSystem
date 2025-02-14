@@ -1,0 +1,30 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Database files
+*.db
+*.sql
+*.bak
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# MacOS
+.DS_Store
