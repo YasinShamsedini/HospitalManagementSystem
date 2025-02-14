@@ -2,16 +2,24 @@
 
 This project is a **Hospital Management System** designed to manage various hospital functions including patient records, doctor profiles, appointments, prescriptions, medications, and bills. The system features a clean and intuitive **dark-themed** user interface built using **Tkinter** and Python, enabling easy management of hospital data.
 
+---
+
 ## 🚀 **Features**
 
 ### 1. **Patient Management** 👩‍⚕️👨‍⚕️
 - Add, update, and manage patient information such as **name**, **age**, **gender**, and **contact details**.
 - View all patient records in a simple table format.
-  
+  <br> <br>
+
+  ![image1](https://github.com/YasinShamsedini/HospitalManagementSystem/blob/main/images/patientshospital.JPG)
+
 ### 2. **Doctor Management** 🩺
 - Manage doctor profiles including **name**, **specialization**, and **contact information**.
 - Easily filter doctors based on their specialization.
+  <br> <br>
 
+  ![image1](https://github.com/YasinShamsedini/HospitalManagementSystem/blob/main/images/doctorshospital.JPG)
+  
 ### 3. **Appointment Management** 🗓️
 - Schedule and manage patient appointments with doctors.
 - View a list of appointments, including **doctor**, **patient**, **date**, and **time**.
@@ -28,8 +36,10 @@ This project is a **Hospital Management System** designed to manage various hosp
 ### 6. **Medicine Management** 💊
 - Keep track of available medicines, including **quantity**, **price**, and **medication details**.
 - Add and remove medicines as necessary.
+  <br> <br>
 
----
+  ![image1](https://github.com/YasinShamsedini/HospitalManagementSystem/blob/main/images/doctorshospital.JPG)
+
 
 ## 🖥️ **User Interface & Design**
 
@@ -38,7 +48,7 @@ This project is a **Hospital Management System** designed to manage various hosp
 - A **custom Tkinter GUI** provides a modern, clean, and intuitive interface for users.
 - The interface includes **combo boxes** linked to the database for easy access to data such as doctor and patient information.
 
----
+
 
 ## 💡 **Strengths**
 
@@ -48,7 +58,7 @@ This project is a **Hospital Management System** designed to manage various hosp
 - **Search & Filter**: Combo boxes and search functionality make it easy to filter and find specific data (e.g., doctors, patients).
 - **Responsive Layout**: The GUI layout automatically adapts to window resizing, providing a responsive design.
 
----
+
 
 ## ⚠️ **Weaknesses**
 
@@ -59,7 +69,7 @@ While this system is well-suited for smaller hospitals or clinics, it may not sc
 - **Doctor Shift Scheduling**: Currently, the system displays all doctors, which may not be suitable for large-scale operations. Implementing a shift-based doctor selection system could be beneficial for bigger hospitals.
 - **Extended Features**: More advanced features like **patient history**, **appointments by department**, or **automatic reminders** could be added to improve usability.
 
----
+
 
 ## 🔧 **Technologies Used**
 
@@ -69,7 +79,7 @@ While this system is well-suited for smaller hospitals or clinics, it may not sc
 - **SQL Server**
 - **PIL (Pillow)**
 
----
+
 
 ## 📂 **Installation**
 
@@ -78,7 +88,7 @@ To get the project up and running on your local machine, follow the steps that m
 
    This will launch the Hospital Management System with a Tkinter-based GUI.
 
----
+
 
 ## 🔧 **Troubleshooting**
 
@@ -88,13 +98,13 @@ If you run into issues while using the application, here are some common trouble
 - **SQL Server**: Make sure that your **SQL Server instance** is running and accessible.
 - **Image Path**: If you're getting an error related to missing images, ensure the `image_path` in the code points to the correct location of the image file on your system.
 
----
+
 
 ## 📝 **License**
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
----
+
 
 ## 🙏 **Acknowledgements**
 
